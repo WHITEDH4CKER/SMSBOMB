@@ -20,33 +20,15 @@ Python 3.8.3
 
 ## Usage:
 
-### Install by PIP (Recommended)
-
-Before continuing make sure following requirements are satisfied:
-
-- Python version greater than or equal to 3.4 is installed
-- pip is installed for Python 3
-
-Install `tbomb` package by running:
-
-```shell script
-pip3 install tbomb
-```
-
-Run TBomb by just typing:
-```shell script
-tbomb
-```
-
 ### Install from GIT
 
 #### NOTE 
 
 Git installation methods are not universal and are likely to differ between distributions so installing Git as per the given instructions below may not work. Please check out how to install Git for your Linux distribution [here](https://git-scm.com/). Commands below provide instructions for Debian-based systems.
 
->Running `TBomb.sh` as sudo miscofigures files ownership. It is recommended not to run it as sudo
+>Running `SMSBOMB.sh` as sudo miscofigures files ownership. It is recommended not to run it as sudo
 
-Run these commands to clone and run TBomb.
+Run these commands to clone and run SMSBOMB.
 
 #### For Termux
 ***Download Termux: https://f-droid.org/packages/com.termux/
@@ -58,8 +40,9 @@ apt Instal curl
 pkg install git -y 
 pkg install python -y 
 git clone https://github.com/WHITEDH4CKER/SMSBOMB.git
-cd TBomb
-./TBomb.sh
+cd SMDBOMB
+chmod+x SMSBOMB.sh
+./SMSBOMB.sh
 ```
 
 #### For iSH
@@ -72,10 +55,10 @@ apk add py3-pip
 apk add ruby
 gem install toilet
 git clone https://github.com/WHITEDH4CKER/SMSBOMB.git
-cd TBomb
+cd SMSBOMB
 pip3 install -r requirements.txt
-chmod +x TBomb.sh
-./TBomb.sh
+chmod +x SMSBOMB.sh
+./SMSBOMB.sh
 ```
 
 #### For Debian-based GNU/Linux distributions
@@ -84,8 +67,9 @@ To use the application, type in the following commands in GNU/Linux terminal.
 ```shell script
 sudo apt install git
 git clone https://github.com/WHITEDH4CKER/SMSBOMB.git
-cd TBomb
-bash TBomb.sh
+cd SMSBOMB
+chmod +x SMSBOMB.sh
+bash SMSBOMB.sh
 ```
 
 #### For MacOS
@@ -106,8 +90,8 @@ brew install python3
 sudo easy_install pip
 sudo pip install --upgrade pip
 git clone https://github.com/WHITEDH4CKER/SMSBOMB.git
-cd TBomb
-bash TBomb.sh
+cd SMSBOMB
+bash SMSBOMB.sh
 ,,,
 
 ### TODO:
