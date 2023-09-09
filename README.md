@@ -104,9 +104,9 @@ bash SMSBOMB.sh
 
 ## FAQ
 
-**Q:** Is there any TBomb Website/App ?
+**Q:** Is there any SMSBOMB Website/App ?
 
-**A:** There is no official website/app yet.The only official releases of TBomb are published in [Github](https://github.com/WHITEDH4CKER/SMSBOMB.git)
+**A:** There is no official website/app yet.The only official releases of SMSBOMB are published in [Github](https://github.com/WHITEDH4CKER/SMSBOMB.git)
 ##
 **Q:** Poor Internet Connection Detected:
 
@@ -126,29 +126,20 @@ bash SMSBOMB.sh
 ##
 **Q:** Why is the limit so low?
 
-**A:** Due the amount of requests, the APIs can die. To prevent a bigger outtake of TBomb, it has been limited. 
+**A:** Due the amount of requests, the APIs can die. To prevent a bigger outtake of SMSBOMB, it has been limited. 
 ##
-**Q:** Help, I got the error that the requirements aren't installed, even when the installer has successfully reached the main menu
+**Q:** Help, I got the error that the requirements aren't installed, even when the installer has successfully reached the main men
 
-**A:** First, make sure `python3` and `pip3` are installed. 
-- The Easy Method:  
-   `pip3 install tbomb`  
-    Then execute by simply running `tbomb`
-- The Git Method:  
-    Clone the repo and Switch to the TBomb Directory and execute this command:  
+**A:** Clone the repo and Switch to the SMSBOMB Directory and execute this command:  
     `pip3 install -r requirements.txt`
 ##
-**Q:** Help, It says `command 'tbomb' not found` after installing PIP version!
+**Q:** Help, I can't execute SMSBOMB.sh!
 
-**A:** Try running `sudo pip3 install tbomb`
-##
-**Q:** Help, I can't execute TBomb.sh!
-
-**A:** Run TBomb Directly with `python3 bomber.py`
+**A:** Run SMSBOMB Directly with `python3 bomber.py`
 ##
 **Q:** Should I use VPN? 
 
-**A:** No, If you are facing high fail rate as TBomb can fail due the high response time or API restrictions.
+**A:** No, If you are facing high fail rate as SMSBOMB can fail due the high response time or API restrictions.
 ##
 **Q:** How to get protection ?
 
