@@ -53,13 +53,13 @@ def clr():
 def bann_text():
     clr()
     logo = """
-       _____ __  __  _____ ____   ____  __  __ ____  
-  / ____|  \/  |/ ____|  _ \ / __ \|  \/  |  _ \ 
- | (___ | \  / | (___ | |_) | |  | | \  / | |_) |
-  \___ \| |\/| |\___ \|  _ <| |  | | |\/| |  _ < 
-  ____) | |  | |____) | |_) | |__| | |  | | |_) |
- |_____/|_|  |_|_____/|____/ \____/|_|  |_|____/ 
-                                BY WHITEDH4CKER
+ ________  ___ ___________  ________  _________ 
+/  ___|  \/  |/  ___| ___ \|  _  |  \/  || ___ \
+\ `--.| .  . |\ `--.| |_/ /| | | | .  . || |_/ /
+ `--. \ |\/| | `--. \ ___ \| | | | |\/| || ___ \
+/\__/ / |  | |/\__/ / |_/ /\ \_/ / |  | || |_/ /
+\____/\_|  |_/\____/\____/  \___/\_|  |_/\____/ 
+                               By WHITEDH4CKER
     if ASCII_MODE:
         logo = ""
     version = "Version: "+__VERSION__
@@ -91,7 +91,7 @@ def do_zip_update():
         dir_name = "SMSBOMB-dev"
     else:
         zip_url = "https://github.com/WHITEDH4CKER/SMSBOMB/archive/master.zip"
-        dir_name = "SMSBOMBER-master"
+        dir_name = "SMSBOMB-master"
     print(ALL_COLORS[0]+"Downloading ZIP ... "+RESET_ALL)
     response = requests.get(zip_url)
     if response.status_code == 200:
@@ -153,7 +153,7 @@ def do_git_update():
         mesgdcrt.GeneralMessage("Then run command:")
         print(
             "git checkout . && "
-            "https://github.com/WHITEDH4CKER/SMSBOMB.git HEAD")
+            "git pull https://github.com/WHITEDH4CKER/SMSBOMB.git HEAD")
     sys.exit()
 
 
@@ -171,7 +171,7 @@ def check_for_updates():
         return
     mesgdcrt.SectionMessage("Checking for updates")
     fver = requests.get(
-        "https://github.com/WHITEDH4CKER/SMSBOMB/master/.version"
+        "https://raw.githubusercontent.com/WHITEDH4CKER/SMSBOMB/master/.version"
     ).text.strip()
     if fver != __VERSION__:
         mesgdcrt.WarningMessage("An update is available")
