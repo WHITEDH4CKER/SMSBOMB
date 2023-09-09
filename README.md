@@ -18,7 +18,7 @@ Python 3.8.3
 - Over 15 integrated messaging and calling APIs included with JSON
 - Unlimited (with abuse protection) and super-fast bombing with multithreading
 ## Screenshots:
-![App Screenshot](https://github.com/WHITEDH4CKER/SMSBOMB/utils/Screenshots_1.jpg) ![App Screenshot](https://github.com/WHITEDH4CKER/SMSBOMB/utils/Screenshots_2.jpg) ![App Screenshot](githttps://github.com/WHITEDH4CKER/SMSBOMB/utils/Screenshots_3.jpg)
+![App Screenshot](https://github.com/WHITEDH4CKER/SMSBOMB/utils/Screenshots/Screenshot_1.jpg) ![App Screenshot](https://github.com/WHITEDH4CKER/SMSBOMB/utils/Screenshots/Screenshot_2.jpg) ![App Screenshot](githttps://github.com/WHITEDH4CKER/SMSBOMB/utils/Screenshots/Screenshot_3.jpg)
  
 ## Usage:
 
