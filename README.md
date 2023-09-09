@@ -40,8 +40,8 @@ apt Instal curl
 pkg install git -y 
 pkg install python -y 
 git clone https://github.com/WHITEDH4CKER/SMSBOMB.git
-cd SMDBOMB
-chmod+x SMSBOMB.sh
+cd SMSBOMB
+chmod +x SMSBOMB.sh
 ./SMSBOMB.sh
 ```
 
