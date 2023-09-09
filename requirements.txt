@@ -1,4 +1,4 @@
-certifi>=2020.6.20
+certifi>=2023.08.08
 chardet>=3.0.4
 colorama>=0.4.3
 idna>=2.10
