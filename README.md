@@ -24,7 +24,7 @@ Python 3.8.3
 ***
 ## Usage:
 #### For Termux
-**Download Termux: https://f-droid.org/packages/com.termux/**
+**📥Download Termux: https://f-droid.org/packages/com.termux/**
 
 ➡️To use the SMSBOMB type the following commands in Termux:
 
