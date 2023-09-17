@@ -1,10 +1,8 @@
 ## NOTES:
 
+>**⚠️⚠️⚠️Tool is Made for Educational Purposes only Please try not to harm anyone device it's For Fun Purpose Not For Reveng⚠️⚠️⚠️**
+
 >**👉Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages**
-
-
-> **👉Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
-Download Now:  https://f-droid.org/packages/com.termux/**
 
 ## Compatibility
 ➡️Check your Python version by typing in
@@ -24,7 +22,7 @@ Python 3.8.3
 ***
 ## Usage:
 #### For Termux
-**📥Download Termux: https://f-droid.org/packages/com.termux/**
+> **👉Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store! 📥Download Termux: https://f-droid.org/packages/com.termux/**
 
 ➡️To use the SMSBOMB type the following commands in Termux:
 
@@ -172,9 +170,9 @@ bash SMSBOMB.sh
 
 **A:** Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages.
 
-### Support
+### Support:
 
-➡️For Queries: [Telegram] (https://t.me/mranonymous4u) 
+**➡️For Queries: [Telegram] (https://t.me/mranonymous4u)**
 
 ### <p align="center">```And Thanks for choosing this tool Support Us !``` 
   
