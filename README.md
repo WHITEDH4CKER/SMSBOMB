@@ -3,6 +3,7 @@
 >**⚠️⚠️⚠️Tool is Made for Educational Purposes only Please try not to harm anyone device it's For Fun Purpose Not For Reveng⚠️⚠️⚠️**
 
 >**👉Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages**
+***
 
 ## Compatibility
 ➡️Check your Python version by typing in
@@ -13,6 +14,7 @@ $ python --version
 ```shell script
 Python 3.8.3
 ```
+***
 ## Screenshots:
 ![App Screenshot](https://github.com/WHITEDH4CKER/SMSBOMB/blob/main/utils/Screenshots/Screenshot_1.jpg)
 ***
@@ -21,10 +23,10 @@ Python 3.8.3
 ![App Screenshot](https://github.com/WHITEDH4CKER/SMSBOMB/blob/main/utils/Screenshots/Screenshot_3.jpg)
 ***
 ## Usage:
-#### For Termux
+### For Termux
 > **👉Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store! 📥Download Termux: https://f-droid.org/packages/com.termux/**
 
-➡️To use the SMSBOMB type the following commands in Termux:
+#### ➡️To use the SMSBOMB type the following commands in Termux:
 
 ```shell script
 apt update && apt upgrade
@@ -57,10 +59,11 @@ chmod +x SMSBOMB.sh
 ```shell script
 ./SMSBOMB.sh
 ```
+***
 
-#### For iSH
+### For iSH
 
-➡️To use the application, type in the following commands in iSH.
+#### ➡️To use the application, type in the following commands in iSH.
 
 ```shell script
 apk add git
@@ -92,10 +95,11 @@ chmod +x SMSBOMB.sh
 ```shell script
 ./SMSBOMB.sh
 ```
+***
 
-#### For Debian-based GNU/Linux distributions
+### For Debian-based GNU/Linux distributions
 
-➡️To use the application, type in the following commands in GNU/Linux terminal.
+#### ➡️To use the application, type in the following commands in GNU/Linux terminal.
 
 ```shell script
 sudo apt install git
@@ -112,15 +116,17 @@ chmod +x SMSBOMB.sh
 ```shell script
 bash SMSBOMB.sh
 ```
+***
 
-#### TODO:
+### TODO:
  - [ ] Make Code More Readable and Extensible 
  - [ ] Add More Mail Spam APIs 
  - [ ] Add More SMS Spam APIs 
  - [ ] Add More Call Spam APIs 
  - [ ] Resolve threading issue in some devices
+***
 
-## FAQ
+### FAQ
 
 **Q:** Is there any SMSBOMB Website/App ?
 
@@ -169,10 +175,12 @@ bash SMSBOMB.sh
 **Q:** Why does it fail?
 
 **A:** Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages.
+***
 
 ### Support:
 
 **➡️For Queries: [Telegram] (https://t.me/mranonymous4u)**
+***
 
 ### <p align="center">```And Thanks for choosing this tool Support Us !``` 
   
