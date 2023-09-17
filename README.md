@@ -24,7 +24,7 @@ Python 3.8.3
 ***
 ## Usage:
 ### For Termux
-> **👉Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store! 📥Download Termux: https://f-droid.org/packages/com.termux/**
+> **👉Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!Download Now:📥 https://f-droid.org/packages/com.termux/**
 
 #### ➡️To use the SMSBOMB type the following commands in Termux:
 
