@@ -7,11 +7,11 @@
 Download Now:  https://f-droid.org/packages/com.termux/**
 
 ## Compatibility
-Check your Python version by typing in
+➡️Check your Python version by typing in
 ```shell script
 $ python --version
 ```
-If you get the following
+➡️If you get the following
 ```shell script
 Python 3.8.3
 ```
@@ -26,7 +26,7 @@ Python 3.8.3
 #### For Termux
 **Download Termux: https://f-droid.org/packages/com.termux/**
 
-👉To use the SMSBOMB type the following commands in Termux:
+➡️To use the SMSBOMB type the following commands in Termux:
 
 ```shell script
 apt update && apt upgrade
@@ -62,7 +62,7 @@ chmod +x SMSBOMB.sh
 
 #### For iSH
 
-To use the application, type in the following commands in iSH.
+➡️To use the application, type in the following commands in iSH.
 
 ```shell script
 apk add git
@@ -97,7 +97,7 @@ chmod +x SMSBOMB.sh
 
 #### For Debian-based GNU/Linux distributions
 
-To use the application, type in the following commands in GNU/Linux terminal.
+➡️To use the application, type in the following commands in GNU/Linux terminal.
 
 ```shell script
 sudo apt install git
@@ -126,7 +126,7 @@ bash SMSBOMB.sh
 
 **Q:** Is there any SMSBOMB Website/App ?
 
-**A:** There is no official website/app yet.The only official releases of SMSBOMB are published in [Github](https://github.com/WHITEDH4CKER/SMSBOMB.git)
+**A:** There is no official website/app yet.The only official releases of SMSBOMB are published in [Github] (https://github.com/WHITEDH4CKER/SMSBOMB.git)
 
 ##
 **Q:** Poor Internet Connection Detected:
@@ -174,7 +174,7 @@ bash SMSBOMB.sh
 
 ### Support
 
-For Queries: [Telegram](t.me/mranonymous4u) 
+➡️For Queries: [Telegram] (https://t.me/mranonymous4u) 
 
 ### <p align="center">```And Thanks for choosing this tool Support Us !``` 
   
