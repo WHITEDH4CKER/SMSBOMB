@@ -38,7 +38,7 @@ banner() {
         toilet -f mono12 -F border WHITEDH4CKER
     fi
     echo -e "\e[1;34m For Any Queries Join Me!!!\e[0m"
-    echo -e "\e[1;32m           Telegram: https://t.me/mranonymous4u \e[0m"
+    echo -e "\e[1;32m           Telegram: https://t.me/WHITEDH4CKER \e[0m"
     echo " "
     echo "NOTE: Kindly move to the PIP version Of SMSBOMB for more stability."
     echo " "
