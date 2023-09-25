@@ -33,7 +33,7 @@ apt update && apt upgrade
 ```
 
 ```shell script
-apt Install curl
+apt install curl
 ```
 
 ```shell script
