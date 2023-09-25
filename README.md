@@ -1,7 +1,8 @@
 ## Warning🚨:
 
 >**⚠️Misuse of information on this website/tool may result in criminal charges against the individuals concerned.  The authors and WHITEDH4CKER will not be held responsible in case any criminal charges are filed against any person misusing the information on the website/tool. This website/tool is designed for educational purposes only.⚠️**
-
+***
+## Notes:
 >**👉Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages**
 ***
 
