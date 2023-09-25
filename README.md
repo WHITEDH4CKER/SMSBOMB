@@ -27,6 +27,8 @@ Python 3.8.3
 ### For Termux
 > **👉Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!Download Now:📥 https://f-droid.org/packages/com.termux/**
 
+> **Watch video👉 [Instagram ] ( https://www.instagram.com/reel/Cxm3ORdvF-V/?igshid=MzRlODBiNWFlZA== )**
+
 #### ➡️To use the SMSBOMB type the following commands in Termux:
 
 ```shell script
