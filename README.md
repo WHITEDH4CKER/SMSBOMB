@@ -62,6 +62,9 @@ chmod +x SMSBOMB.sh
 ```shell script
 ./SMSBOMB.sh
 ```
+
+```python3 bomber.py
+```
 ***
 
 ### For iSH
@@ -98,6 +101,8 @@ chmod +x SMSBOMB.sh
 ```shell script
 ./SMSBOMB.sh
 ```
+```python3 bomber.py
+```
 ***
 
 ### For Debian-based GNU/Linux distributions
@@ -118,6 +123,8 @@ chmod +x SMSBOMB.sh
 ```
 ```shell script
 bash SMSBOMB.sh
+```
+```python3 bomber.py
 ```
 ***
 
