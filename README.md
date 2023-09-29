@@ -63,7 +63,8 @@ chmod +x SMSBOMB.sh
 ./SMSBOMB.sh
 ```
 
-```python3 bomber.py
+```shell script
+python bomber.py
 ```
 ***
 
@@ -101,7 +102,8 @@ chmod +x SMSBOMB.sh
 ```shell script
 ./SMSBOMB.sh
 ```
-```python3 bomber.py
+```shell script
+python bomber.py
 ```
 ***
 
@@ -124,7 +126,8 @@ chmod +x SMSBOMB.sh
 ```shell script
 bash SMSBOMB.sh
 ```
-```python3 bomber.py
+```shell script
+python bomber.py
 ```
 ***
 
