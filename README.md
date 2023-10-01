@@ -203,4 +203,4 @@ python bomber.py
   
  ## <p align="center">```WHITEDH4CKER [DEV_SANJAY]```
 
-<p align="right"> Last FAQ Update: 17.09.2023 </p>
+<p align="right"> Last FAQ Update: 01.10.2023 </p>
