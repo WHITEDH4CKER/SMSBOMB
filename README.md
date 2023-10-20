@@ -60,6 +60,10 @@ chmod +x SMSBOMB.sh
 ```
 
 ```shell script
+pip install requests
+```
+
+```shell script
 ./SMSBOMB.sh
 ```
 
