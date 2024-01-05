@@ -29,10 +29,10 @@ Python 3.8.3
 
 ### [📸 Watch video](https://www.instagram.com/reel/Cxm3ORdvF-V/?igshid=MzRlODBiNWFlZA==)
 
-#### ➡️To use the SMSBOMB type the following commands in Termux:
+#### ➡️ Type the following commands To use FB-BRUTEFORCE in Termux:
 
 ```shell script
-apt update && apt upgrade
+apt update && apt upgrade -y
 ```
 
 ```shell script
@@ -74,7 +74,7 @@ python bomber.py
 
 ### For iSH
 
-#### ➡️To use the application, type in the following commands in iSH.
+#### ➡️ Type the following commands To use FB-BRUTEFORCE in SSH:
 
 ```shell script
 apk add git
@@ -113,7 +113,7 @@ python bomber.py
 
 ### For Debian-based GNU/Linux distributions
 
-#### ➡️To use the application, type in the following commands in GNU/Linux terminal.
+#### ➡️ Type the following commands To use FB-BRUTEFORCE in GNU/Linux terminal.
 
 ```shell script
 sudo apt install git
