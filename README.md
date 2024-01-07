@@ -196,16 +196,17 @@ python bomber.py
 
 ## 👤My Account For Support👤:
 
-### ➡️ [Instagram](https://Instagram.com/WHITEDH4CKER)
-### ➡️ [Facebook page](https://www.facebook.com/WHITEDH4CKER)
-### ➡️ [Telegram group](https://t.me/WHITEDR00M)
-### ➡️ [WhatsApp channel](https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r)
+### <p align="left"> ➡️ <a href="https://instagram.com/whitedh4cker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whitedh4cker" height="40" width="40" /></a>[Instagram](https://Instagram.com/WHITEDH4CKER)</p>
+
+### <p align="left">  ➡️ <a href="https://www.facebook.com/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Facebook.svg" alt="whitedh4cker" height="40" width="40" /></a>[Facebook page](https://www.facebook.com/WHITEDH4CKER)</p>
+
+### <p align="left"> ➡️ <a href="https://t.me/WHITEDH4CKER" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Telegram.svg" alt="whitedh4cker" height="40" width="40" /></a>[Telegram group](https://t.me/WHITEDR00M)</p>
+
+### <p align="left">  ➡️ <a href="https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/WhatsApp.svg" alt="whitedh4cker" height="40" width="40" /></a>[WhatsApp channel](https://whatsapp.com/channel/0029VaIlY264IBh9T2iaey0r)</p>
+
 ***
-
-
-
 ### <p align="center">```And Thanks for choosing this tool Support Us !``` 
   
  ## <p align="center">```WHITEDH4CKER [DEV_SANJAY]```
 
-<p align="right"> Last FAQ Update: 01.10.2023 </p>
+<p align="right"> Last FAQ Update: 06.01.2024 </p>
